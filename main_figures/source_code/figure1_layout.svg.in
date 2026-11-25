@@ -904,7 +904,7 @@ z
     <text style="fill: #2c3e50; font: 700 7.8px 'sans-serif'; text-anchor: start" x="260.835591" y="19.3331" transform="rotate(-0 260.835591 19.3331)">PRJNA1545393 · Flower extract</text>
    </g>
    <g id="text_25">
-    <text style="fill: #5d6d7e; font: 6.6px 'sans-serif'; text-anchor: start" x="260.835591" y="27.996306" transform="rotate(-0 260.835591 27.996306)">Male BKS db/db &amp; db/m mice · Oral flower extract</text>
+    <text style="fill: #5d6d7e; font: 6.6px 'sans-serif'; text-anchor: start" x="260.835591" y="27.996306" transform="rotate(-0 260.835591 27.996306)">Male BKS <tspan style="font-style:oblique">db/db</tspan> &amp; <tspan style="font-style:oblique">db/m</tspan> mice · Oral flower extract</text>
    </g>
    <g id="line2d_15">
     <path d="M 442.464265 18.551713 
@@ -980,7 +980,7 @@ z
     <text style="fill: #2c3e50; font: 700 7.6px 'sans-serif'; text-anchor: start" x="254.444882" y="41.919956" transform="rotate(-0 254.444882 41.919956)">NC</text>
    </g>
    <g id="text_27">
-    <text style="fill: #5d6d7e; font: 6.5px 'sans-serif'; text-anchor: start" x="254.444882" y="51.032069" transform="rotate(-0 254.444882 51.032069)">db/m + water</text>
+    <text style="fill: #5d6d7e; font: 6.5px 'sans-serif'; text-anchor: start" x="254.444882" y="51.032069" transform="rotate(-0 254.444882 51.032069)"><tspan style="font-style:oblique">db/m</tspan> + water</text>
    </g>
    <g id="patch_61">
     <path d="M 383.44252 41.432343 
@@ -1041,7 +1041,7 @@ z
     <text style="fill: #2c3e50; font: 700 7.6px 'sans-serif'; text-anchor: start" x="254.444882" y="72.216649" transform="rotate(-0 254.444882 72.216649)">DM</text>
    </g>
    <g id="text_30">
-    <text style="fill: #5d6d7e; font: 6.5px 'sans-serif'; text-anchor: start" x="254.444882" y="81.328762" transform="rotate(-0 254.444882 81.328762)">db/db + water</text>
+    <text style="fill: #5d6d7e; font: 6.5px 'sans-serif'; text-anchor: start" x="254.444882" y="81.328762" transform="rotate(-0 254.444882 81.328762)"><tspan style="font-style:oblique">db/db</tspan> + water</text>
    </g>
    <g id="patch_65">
     <path d="M 383.44252 71.729036 
@@ -1102,7 +1102,7 @@ z
     <text style="fill: #2c3e50; font: 700 7.6px 'sans-serif'; text-anchor: start" x="254.444882" y="102.513342" transform="rotate(-0 254.444882 102.513342)">PNF</text>
    </g>
    <g id="text_33">
-    <text style="fill: #5d6d7e; font: 6.5px 'sans-serif'; text-anchor: start" x="254.444882" y="111.625455" transform="rotate(-0 254.444882 111.625455)">db/db + 3.9 g/kg/d oral</text>
+    <text style="fill: #5d6d7e; font: 6.5px 'sans-serif'; text-anchor: start" x="254.444882" y="111.625455" transform="rotate(-0 254.444882 111.625455)"><tspan style="font-style:oblique">db/db</tspan> + 3.9 g/kg/d oral</text>
    </g>
    <g id="patch_69">
     <path d="M 383.44252 102.025729 

@@ -43,8 +43,8 @@ def diagram_labels(inputs):
 
 
 def render(svg, output, inkscape, font_dir):
-    if not all((font_dir / name).is_file() for name in ("DejaVuSans.ttf", "DejaVuSans-Bold.ttf")):
-        raise ValueError("Provide the DejaVu Sans regular and bold TTF files using --font-dir.")
+    if not all((font_dir / name).is_file() for name in ("DejaVuSans.ttf", "DejaVuSans-Bold.ttf", "DejaVuSans-Oblique.ttf")):
+        raise ValueError("Provide the DejaVu Sans regular, bold and oblique TTF files using --font-dir.")
     # The approved SVG uses CSS shorthand. Specify the PDF typeface explicitly
     # during export to avoid the system's default sans-serif substitution.
     def expand_font(match):
