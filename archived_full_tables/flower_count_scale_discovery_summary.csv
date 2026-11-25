@@ -1,0 +1,5 @@
+"scheme","retained","n_domain_intersect_A","QL_BH_discoveries","QL_BH_A_overlap_n","QL_BH_A_overlap_symbols","TREAT_BH_discoveries","TREAT_BH_A_overlap_n","TREAT_BH_A_overlap_symbols","voom_BH_discoveries","voom_BH_A_overlap_n","voom_BH_A_overlap_symbols"
+"A",12141,12141,13,13,"Sipa1l2|Nr1d1|C6|Nr4a1|Cdkn1a|Svil|Tnfrsf1b|Bhlhe41|Trib3|Arhgap39|Eepd1|Nat8l|Gatd1",1,1,"Nat8l",5,5,"Cdkn1a|Svil|Tnfrsf1b|Eepd1|Nat8l"
+"B1",12141,12141,13,13,"Sipa1l2|Nr1d1|C6|Nr4a1|Cdkn1a|Svil|Tnfrsf1b|Bhlhe41|Trib3|Arhgap39|Eepd1|Nat8l|Gatd1",1,1,"Nat8l",NA,NA,NA
+"B2",12167,12097,12,12,"Sipa1l2|Nr1d1|C6|Nr4a1|Cdkn1a|Svil|Tnfrsf1b|Bhlhe41|Trib3|Arhgap39|Eepd1|Gatd1",0,0,"",NA,NA,NA
+"C",11249,11144,6,6,"Cdkn1a|Tnfrsf1b|Arhgap39|Eepd1|Nat8l|Gatd1",1,1,"Nat8l",4,4,"Cdkn1a|Tnfrsf1b|Eepd1|Nat8l"

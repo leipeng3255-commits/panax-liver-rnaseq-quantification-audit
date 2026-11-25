@@ -1,0 +1,29 @@
+{
+  "time": "2026-10-30T21:54:05.778459+08:00",
+  "root": {
+    "dataset": "PRJNA1462623",
+    "taxon_id": 10090,
+    "annotation": "GENCODE_M37",
+    "reference_gene_key": "versioned_Ensembl_mouse_gene_ID",
+    "contrast": "PNS_minus_Model",
+    "material": "root PNS mixture",
+    "context": "diet-associated mouse metabolic liver model",
+    "independent_animals_externally_verified": false
+  },
+  "flower": {
+    "dataset": "PRJNA1545393",
+    "taxon_id": 10090,
+    "annotation": "GENCODE_M37",
+    "reference_gene_key": "versioned_Ensembl_mouse_gene_ID",
+    "contrast": "PNF_minus_DM",
+    "material": "flower extract",
+    "context": "male db/db liver; DM and PNF within same reported genotype",
+    "independent_animals_externally_verified": false
+  },
+  "orthology_conversion": "NONE; both datasets are Mus musculus; human or rat identifiers prohibited",
+  "estimand": "two context-specific relative bulk-liver expression associations, conditional on model assumptions",
+  "replicability_or_equivalence_claim_permitted": false,
+  "marginal_postfilter_P_calibration_proven": false,
+  "cross_context_discovery_status": "DISABLED_ROOT_ONLY_BOUND_PRECLUDES_DISCOVERY",
+  "scope_of_shared_table": "Coverage/effect diagnostic and implementation audit only; BY zero discoveries is mathematically predetermined, not a biological result"
+}

@@ -1,0 +1,7 @@
+source,fibrosis_stage,sample_records,female,male,age_n,age_median,age_min,age_max,author_stellate_nuclei,notes
+GSE162694,1,30,20.0,10.0,30.0,45.0,21.0,68.0,,Unadjusted batch/site/RNA quality; Salmon count provenance unresolved
+GSE162694,3,8,4.0,4.0,8.0,51.0,32.0,62.0,,Unadjusted batch/site/RNA quality; Salmon count provenance unresolved
+GSE135251,1,47,,,,,,,,Age and sex unavailable in downloaded sample metadata
+GSE135251,3,54,,,,,,,,Age and sex unavailable in downloaded sample metadata
+GSE202379 Stellate,1,7,3.0,4.0,7.0,55.0,47.0,59.0,579.0,Author-assigned Stellate; identity not orthogonally verified
+GSE202379 Stellate,3,8,3.0,5.0,8.0,66.0,41.0,76.0,648.0,Author-assigned Stellate; identity not orthogonally verified

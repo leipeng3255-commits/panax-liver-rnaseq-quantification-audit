@@ -1,0 +1,23 @@
+{
+  "stage": "CONDITIONAL_EXPLORATORY_MODEL_COMPLETE",
+  "genes": 13318,
+  "samples": 6,
+  "edgeR_QL_BH_lt05": 0,
+  "edgeR_TREAT_1_5fold_BH_lt05": 0,
+  "voom_BH_lt05": 0,
+  "both_models_BH_lt05": 0,
+  "effect_spearman": 0.98142513833380796,
+  "same_sign_n": 12901,
+  "QL_significant_stable_sign_all_6": 0,
+  "QL_significant_retained_BH_all_6": 0,
+  "pathway_background_genes": 13300,
+  "pathways_tested": 50,
+  "camera_BH_lt05": {
+    "0.01": 15,
+    "0.05": 0,
+    "estimated": 0,
+    "zero": 25
+  },
+  "source_reported_independence_not_externally_verified": true,
+  "causal_or_restoration_claim": false
+}

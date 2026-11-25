@@ -1,0 +1,62 @@
+{
+  "R": "R version 4.6.1 (2026-06-24)",
+  "R_platform": "aarch64-apple-darwin23",
+  "R_packages": {
+    "edgeR": "4.10.7",
+    "limma": "3.68.5",
+    "statmod": "1.5.2",
+    "locfit": "1.5.9.12",
+    "jsonlite": "2.0.0",
+    "digest": "0.6.39",
+    "tximport": "1.40.0"
+  },
+  "Python_for_analysis_launchers": "3.15.1",
+  "source_project_environment_lock_sha256": "290ebd31615755fa9180678abcfa00fda30b3c95ebcd6b87d834c95a66341109",
+  "GENCODE": "M37 / GRCm39",
+  "Hallmark": "MSigDB 2025.1.Mm",
+  "upstream_source_sha256": {
+    "SRR41237822/quant.sf": "a4a0d137e01ee0ba04e189b0dc56a82589e030b1d44fa806056e86297b858e37",
+    "SRR41237823/quant.sf": "7926b3c57e0823ab06e6232983d78ce30f9a34fcb9c0a0b59dc10011fc745c0a",
+    "SRR41237824/quant.sf": "0afab38bc1ec1d18be3690e036581b932906247d31244bc238fd9195e1e302df",
+    "SRR41237825/quant.sf": "21d0d7ecfed8f9db632fe63b2b565d50eb36d0f992d249aa98a550cdf7de5b1d",
+    "SRR41237826/quant.sf": "1db7482de08f31191c9d552c0bcf8203f798627f8d2d288e515f50294dc91a23",
+    "SRR41237827/quant.sf": "1dff3bf766f5029088505dec552f28ed30557265012d27c9dc3e53beb3dc758e",
+    "SRR41237828/quant.sf": "e41faef0611b2e316b3279326a127758434d6f1767c7532988ef438dacc765a2",
+    "SRR41237829/quant.sf": "e5a4f0899f71f8b973f530fe7a3a1c42ad4b4fea349c7fd2fa49081df13db4a6",
+    "SRR41237830/quant.sf": "b71d8bcb5427de19387533099ceba416d9d7237f682300d6cb86a97a14acbb14",
+    "SRR41237831/quant.sf": "6ecee059a9fdafa7092b8dd31e412750976081f715376918f9c1d3db7d3caf1c",
+    "SRR41237832/quant.sf": "9c86afb6161d120a426519e09e8d0a001c1427d5d230bafcfec0f31bd7a0bd10",
+    "SRR41237833/quant.sf": "ffe5c99202addb373e9246ddbf199b684a91c462cdaae6157dc78ae971aa7534",
+    "tx2gene.tsv": "ffcc1391d5303b3a5fd0bfadc6e2357be3f7b4f0ea155d1fa1c76caed6327a9b",
+    "tximport_gene_matrices.rds": "ebc63ba615a544655f2d0a6b798d69f3afd5fe6de03f1d68930f61e8630a8f3b",
+    "gencode.vM37.chr_patch_hapl_scaff.annotation.gtf.gz": "75c3cf3c940b3b305ac1bf1ee48aa50c8c1535134e1f92117b8e9f864dc8bbe4"
+  },
+  "bundled_input_sha256": {
+    "closure/inputs/Nat8l_M37.gtf.gz": "fd818c9cdad16cb744e0e3be7649b44fece0eaf66ae92a452c49c1d7c86f2ba3",
+    "closure/inputs/Nat8l_transcript_records.csv": "fa57abde795c306c2a0af8531bb6e676d0f557e9342b9f0c306cebd670eff337",
+    "closure/inputs/flower_descriptive.csv.gz": "c0c7d0c8130a9d3de84caf78246d40dc0ef892ea72f0ee0c4f2dd98f671e0ce9",
+    "closure/inputs/flower_gene_import.rds": "bdb2cb00f5bf2331be2182970f121c6ac34bfbe5b4c7e516f968c6d2a88252f7",
+    "closure/inputs/flower_samples.csv.gz": "fa6d88274cfaa1b846cd95e2daaaea344f678c47f4cc3bda2e224b88b7a556bf",
+    "closure/inputs/import_abundance.tsv.gz": "460a131fa5005a30b3f2a6746a8a7fdf3c34f1700162ad0e1fa1f439c2d38050",
+    "closure/inputs/import_counts.tsv.gz": "12820af7f549cb7db8147a79a3ab8ef764bade547a6fae360163d890ab2f4a7c",
+    "closure/inputs/import_length.tsv.gz": "5cfbb631d0a3c084265c7b1f3211a729c8ee72827d3e287e6c47e959a1a692c9",
+    "closure/inputs/root_descriptive.csv.gz": "ad74545ba1b03f981ed17244be43518e19b436d96d02ee33d300663f1e45cab7",
+    "closure/inputs/root_disease.rds": "7314ff69bfcf71386df5e52fe1c65910e49907bb5fadaaf0185aa5add4c10e2d",
+    "models/flower/inputs/filtered_model_inputs.rds": "5e0f952472a720135653c49594aaf1be0396e7f4636d66803ffab30c0e1dc151",
+    "models/root/inputs/filtered_model_inputs.rds": "7ffe734d3c284d0908e685afb626e77be75a8931d5015fac667a166aca5278a0",
+    "models/flower/resources/mh.all.v2025.1.Mm.symbols.gmt": "2909a73db35f66a538267fa88dd8260e864a5c8d84d3c49c5262fa6bdb6e0805",
+    "models/root/resources/mh.all.v2025.1.Mm.symbols.gmt": "2909a73db35f66a538267fa88dd8260e864a5c8d84d3c49c5262fa6bdb6e0805",
+    "models/flower/context_inputs/flower/CONTEXT_CONTRACT.json": "923b564578cf2aab8283489e1dabd73e4e9cfd66a13ca299a16aef6e83b9344d",
+    "models/flower/context_inputs/flower/gene_filter.tsv": "4a6dc0c56dbe6d7114f7cc02b6bfe233adf6783b2d2417ed53b21273f25f4090",
+    "models/flower/context_inputs/root/gene_annotation.tsv": "f55f8fd5ccf492dc238d6e81bb5dc3314bd0e4bb59145c297e68c5a2c66dfcf5",
+    "models/flower/context_inputs/root/gene_filter.tsv": "587ffc573265ef4b84472992d98b2188e94cc97fcc2031a0d11b393ecf7cacf7",
+    "models/flower/context_inputs/root/gene_results_all.tsv": "d79a2ec631a69faa9c6b41c6e3a466831314460856ab3fa783ba6e208b06474f"
+  },
+  "main_figure_render": {
+    "Python": "3.12.14",
+    "NumPy": "2.5.4",
+    "SciPy": "1.18.1",
+    "Matplotlib": "3.11.2",
+    "font": "DejaVu Sans"
+  }
+}

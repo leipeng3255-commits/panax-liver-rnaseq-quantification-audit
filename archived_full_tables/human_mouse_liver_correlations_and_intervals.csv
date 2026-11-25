@@ -1,0 +1,6 @@
+comparison,spearman,conditional_percentile_2_5,conditional_percentile_97_5,n_genes,interval_scope
+Human GSE162694 vs human GSE135251,0.38229492808192383,-0.11137185826270632,0.4730061359717651,8449,1000 stratified human-donor bootstrap; mouse fixed; donor independence across studies not established
+Human GSE162694 vs mouse PNS,0.05332375392993343,-0.0009185429397573283,0.0789028666892067,8449,1000 stratified human-donor bootstrap; mouse fixed; donor independence across studies not established
+Human GSE135251 vs mouse PNS,0.0694761100539891,-0.03718461321625208,0.11621927333389316,8449,1000 stratified human-donor bootstrap; mouse fixed; donor independence across studies not established
+Human GSE162694 vs mouse model,0.17757627704651477,0.05915209238046623,0.22737532097039484,8449,1000 stratified human-donor bootstrap; mouse fixed; donor independence across studies not established
+Human GSE135251 vs mouse model,0.10189737356598536,-0.004464200069555545,0.18296796659233078,8449,1000 stratified human-donor bootstrap; mouse fixed; donor independence across studies not established

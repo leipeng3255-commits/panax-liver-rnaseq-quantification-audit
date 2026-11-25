@@ -1,0 +1,22 @@
+{
+  "stage": "CONDITIONAL_EXPLORATORY_MODELS_COMPLETE_PENDING_INDEPENDENT_QA",
+  "genes": 12141,
+  "samples": 8,
+  "edgeR_QL_BH_lt05": 13,
+  "voom_BH_lt05": 5,
+  "TREAT_BH_lt05": 1,
+  "camera_BH_lt05": {
+    "0.01": 0,
+    "0.05": 0,
+    "estimated": 0,
+    "zero": 14
+  },
+  "cross_context_fixed_universe": 21807,
+  "cross_context_both_modeled": 11987,
+  "shared_diagnostic_BY_lt05": 0,
+  "shared_diagnostic_BH_lt05": 0,
+  "cross_context_discovery_status": "DISABLED_ROOT_ONLY_BOUND_PRECLUDES_DISCOVERY",
+  "calibrated_replicability_FDR_established": false,
+  "biological_independence_externally_verified": false,
+  "causal_or_material_equivalence": false
+}

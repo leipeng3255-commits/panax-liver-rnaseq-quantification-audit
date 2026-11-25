@@ -1,0 +1,8 @@
+# Third-party resources
+
+The MIT license applies to the authors’ software and documentation. The following materials retain their original provenance and terms.
+
+- **Mouse Hallmark gene sets.** The two model directories each contain the same unmodified MSigDB v2025.1.Mm mouse Hallmark set. Copyright © 2004–2025 Broad Institute, Inc., Massachusetts Institute of Technology, and Regents of the University of California. Distributed under CC BY 4.0. The adjacent MSIGDB_ATTRIBUTION.txt files identify the source release, license and citation. Gene-domain intersections are calculated by the study scripts. [MSigDB terms](https://www.gsea-msigdb.org/gsea/msigdb_license_terms.jsp) · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Mouse annotation.** The Nat8l GTF excerpt, mouse gene identifiers and exon coordinates derive from the GENCODE M37 annotation of GRCm39. The GTF excerpt selects the Nat8l locus. GENCODE provides open access to its project data. [GENCODE M37 mouse release](https://www.gencodegenes.org/mouse/release_M37.html) · [Data access and terms](https://www.gencodegenes.org/pages/data_access.html)
+- **Expression inputs and analysis outputs.** Mouse quantifications originate from the public BioProjects PRJNA1462623 and PRJNA1545393. Human cohort summary statistics derive from the GEO studies GSE162694, GSE135251 and GSE202379. Run, BioSample and gene accession numbers in the analysis tables retain their public identifiers.
+- **Software dependencies.** R, Bioconductor packages, Python libraries and rendering utilities retain their respective licenses. ENVIRONMENT_LOCK.json records the versions used.
